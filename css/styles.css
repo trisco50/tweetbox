@@ -1,0 +1,23 @@
+.container {
+	max-width: 600px;
+	margin-top: 30px;
+}
+
+.centered {
+	text-align: center;
+}
+
+.content {
+	min-height: 100px;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #33c3f0;
+}
+
+.message {
+	height: auto;
+	margin: 5px;
+	background-color: #fff;
+	border-radius: 5px;
+	/*display: none;*/
+}
