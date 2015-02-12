@@ -1,4 +1,5 @@
 <?php
+//Change for github practice
 require 'db.php';
 
 //PREPARE DATABASE FOR NEW ENTRY
